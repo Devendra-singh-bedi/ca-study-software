@@ -1,0 +1,1 @@
+It will create AI-powered CA study software using downloaded ICAI materials, including system architecture, AI implementation, features like doubt solving, mock tests, progress tracking, and a technical roadmap.
